@@ -28,10 +28,3 @@ A lightweight, Python-powered Intrusion Detection System (IDS) that captures net
 | `ids_output.txt`   | Plain text alert log                   |
 
 
-## 🚀 How to Run
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/YOUR-USERNAME/your-ids-repo.git
-cd your-ids-repo
